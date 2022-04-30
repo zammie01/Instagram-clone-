@@ -9,7 +9,7 @@ class UserHome extends StatelessWidget {
     'joseph enoch',
     'Adeniji',
     'akpan victor',
-    'tishe',
+    'tish',
     'david Adeniji'
   ];
 
